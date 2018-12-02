@@ -1,0 +1,2 @@
+xrandr --output DP1 --pos 3840x0 --primary  --output HDMI1 --mode 1920x1080 --scale 2x2 &&
+feh --bg-scale ~/Wallpapers/street.jpeg
